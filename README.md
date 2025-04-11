@@ -61,6 +61,9 @@ Cómo levantar el proyecto localmente
 
 Qué decisiones tomaste para implementarlo
 
+UI Ejemplo
+<img width="1495" alt="Captura de pantalla 2025-04-11 a la(s) 1 12 21 p  m" src="https://github.com/user-attachments/assets/decaccda-acfa-46e8-98ba-6c575c9b95a9" />
+
 🗓 Deadline
 📅 Tenés hasta 5 días desde la recepción del desafío para enviarlo.
 Te recomendamos enfocarte en una versión simple pero funcional. No buscamos sobreingeniería: queremos ver cómo resolvés algo concreto y útil con lo esencial.
